@@ -1,0 +1,16 @@
+# Core desktop and vision
+numpy>=1.26,<3
+opencv-contrib-python>=4.9
+Pillow>=10.0
+python-dotenv>=1.0
+cryptography>=42.0
+
+# Speech, translation and OCR
+pyttsx3>=2.90
+SpeechRecognition>=3.10
+deep-translator>=1.11
+pytesseract>=0.3.13
+
+# Database and optional cloud Ask AI
+mysql-connector-python>=9.0
+openai>=1.75

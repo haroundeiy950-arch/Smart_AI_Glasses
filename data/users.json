@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "full_name": "System Administrator",
+    "role": "admin",
+    "preferred_language": "ar",
+    "is_active": 1,
+    "failed_attempts": 0,
+    "locked_until": null,
+    "created_at": "2026-07-15T11:57:20+00:00",
+    "last_login": "2026-07-19T13:39:17+00:00"
+  }
+]

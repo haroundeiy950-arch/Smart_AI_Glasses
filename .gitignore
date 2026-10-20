@@ -1,0 +1,17 @@
+venv*/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/.secret.key
+data/backups/*
+data/exports/*
+data/known_faces/*
+images/captured/*
+images/unknown/*
+sounds/recorded/*
+sounds/output_voice/*
+models/**/*.pt
+models/**/*.yml
+logs/*.log
+!.gitkeep
